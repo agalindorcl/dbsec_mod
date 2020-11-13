@@ -1,0 +1,52 @@
+{
+    "tutorials": [
+        {
+            "title": "Oracle Database Security Solutions Workshop",
+            "description":"Workhop Overview",
+            "publisheddate": "01/15/2020",
+            "filename":"./about-the-workshop/content.md"
+        },
+        {
+            "title": "Accessing the Labs environment",
+            "description":"Accessing the Labs environment",
+            "publisheddate": "04/21/2020",
+            "filename":"./lab000/lab000_accessing.md"
+        },
+        {
+            "title": "Database Security Assessment Tool",
+            "description":"Database Security Assessment Tool",
+            "publisheddate": "04/24/2020",
+            "filename":"./lab100/lab100_dbsat.md"
+        },
+        {
+            "title": "Transparent Data Encryption",
+            "description":"Transparent Data Encryption",
+            "publisheddate": "05/08/2020",
+            "filename":"./lab300/lab300_transparent_data_encryption.md"
+        },
+        {
+            "title": "Data Redaction",
+            "description":"Data Redaction",
+            "publisheddate": "05/08/2020",
+            "filename":"./lab400/lab400_data_redaction.md"
+        },
+        {
+            "title": "Data Masking",
+            "description":"Data Masking",
+            "publisheddate": "04/21/2020",
+            "filename":"./lab900/lab900_data_masking.md"
+        },
+        {
+            "title": "Privilege Analysis and User Risk Assessment",
+            "description":"Privilege Analysis and User Risk Assessment",
+            "publisheddate": "05/08/2020",
+            "filename":"./lab500/lab500_privilege_analysis.md"
+        },
+        {
+            "title": "User Activity Auditing and Reporting",
+            "description":"User Activity Auditing and Reporting",
+            "publisheddate": "04/21/2020",
+            "filename":"./lab800/lab800_audit_vault.md"
+        }
+    ]
+}
