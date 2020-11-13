@@ -26,9 +26,9 @@ The following labs are available:
 
 - **Database Security Assessment Tool** - Assessing the security of an On-Premise database with the Database Security Assessment Tool (DBSAT).
 
-- **Transparent Data Encryption** - This lab explains how to deal with wallets and keys when moving your database to the cloud
- 
-- **Data Redaction** - Using Data Redaction policies to prevent sensitive data from leaving the database unprotected (aka pseudonymization).
+- **Advanced Security Option:** Transparent Data Encryption & Data Redaction - This lab explains how to deal with wallets and keys when moving your database to the cloud. Data Redaction policies is used to prevent sensitive data from leaving the database unprotected (aka pseudonymization).
+
+- **Database Vault** - Configuring Database Vault to protect the database from over-privileged users and implement Separation Of Duties.
 
 - **Data Masking** - Data Safe can mask data in your non-production environments while maintaining complex data relationships. Data Safe minimizes the amount of personal data and allows internal test, development, and analytics teams to operate with reduced risk. 
 
