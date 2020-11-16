@@ -43,10 +43,10 @@
             "filename":"./lab500/lab500_privilege_analysis.md"
         },
         {
-            "title": "User Activity Auditing and Reporting",
-            "description":"User Activity Auditing and Reporting",
+            "title": "Data Safe Fundamentals",
+            "description":"Data Safe features",
             "publisheddate": "04/21/2020",
-            "filename":"./lab800/lab800_audit_vault.md"
+            "filename":"https://apexapps.oracle.com/pls/apex/dbpm/r/livelabs/view-workshop?p180_id=598&session=24239366308735"
         }
     ]
 }
