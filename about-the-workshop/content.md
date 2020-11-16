@@ -13,6 +13,7 @@ These labs can help the Oracle Partners and Customers to implement the features 
 
 ## Workshop Requirements
 
+- Oracle Cloud account with access to a tenancy and permissions to create instances and services.
 - DBA experience with Oracle Database.
 - Basic knowledge of Linux.
 - SSH and VNC to connect to remote hosts.
