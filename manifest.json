@@ -10,37 +10,37 @@
             "title": "Database Security Assessment Tool",
             "description":"Database Security Assessment Tool",
             "publisheddate": "2020/11/16",
-            "url":"https://apexapps.oracle.com/pls/apex/dbpm/r/livelabs/view-workshop?p180_id=699&session=102635464555491"
+            "url": "https://apexapps.oracle.com/pls/apex/dbpm/r/livelabs/view-workshop?p180_id=699&session=102635464555491"
         },
         {
             "title": "Advanced Security Option",
             "description":"Transparent Data Encryption",
             "publisheddate": "2020/11/16",
-            "url":"https://apexapps.oracle.com/pls/apex/dbpm/r/livelabs/view-workshop?p180_id=703&session=24239366308735"
+            "url": "https://apexapps.oracle.com/pls/apex/dbpm/r/livelabs/view-workshop?p180_id=703&session=24239366308735"
         },
         {
             "title": "Database Vault",
             "description":"Database Vault",
             "publisheddate": "2020/11/16",
-            "url":"https://apexapps.oracle.com/pls/apex/dbpm/r/livelabs/view-workshop?p180_id=682&session=24239366308735"
+            "url": "https://apexapps.oracle.com/pls/apex/dbpm/r/livelabs/view-workshop?p180_id=682&session=24239366308735"
         },
         {
             "title": "Data Masking and Subsetting",
             "description":"Data Masking and Subsetting",
             "publisheddate": "2020/11/16",
-            "url":"https://apexapps.oracle.com/pls/apex/dbpm/r/livelabs/view-workshop?p180_id=704&session=24239366308735"
+            "url": "https://apexapps.oracle.com/pls/apex/dbpm/r/livelabs/view-workshop?p180_id=704&session=24239366308735"
         },
         {
             "title": "Privilege Analysis",
             "description":"Privilege Analysis",
             "publisheddate": "2020/11/16",
-            "url":"https://apexapps.oracle.com/pls/apex/dbpm/r/livelabs/view-workshop?p180_id=701&session=24239366308735"
+            "url": "https://apexapps.oracle.com/pls/apex/dbpm/r/livelabs/view-workshop?p180_id=701&session=24239366308735"
         },
         {
             "title": "Data Safe Fundamentals",
             "description":"Data Safe features",
             "publisheddate": "2020/11/16",
-            "url":"https://apexapps.oracle.com/pls/apex/dbpm/r/livelabs/view-workshop?p180_id=598&session=24239366308735"
+            "url": "https://apexapps.oracle.com/pls/apex/dbpm/r/livelabs/view-workshop?p180_id=598&session=24239366308735"
         }
     ]
 }
