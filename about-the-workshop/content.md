@@ -24,17 +24,17 @@ This workshop can be completed in a self service / self study mode. The particip
 
 The following labs are available:
 
-- **Database Security Assessment Tool** - Assessing the security of an On-Premise database with the Database Security Assessment Tool (DBSAT).
+- **[Database Security Assessment Tool](https://apexapps.oracle.com/pls/apex/dbpm/r/livelabs/view-workshop?p180_id=699&session=102635464555491)** - Assessing the security of an On-Premise database with the Database Security Assessment Tool (DBSAT).
 
-- **Advanced Security Option:** Transparent Data Encryption & Data Redaction - This lab explains how to deal with wallets and keys when moving your database to the cloud. Data Redaction policies is used to prevent sensitive data from leaving the database unprotected (aka pseudonymization).
+- **[Advanced Security Option](https://apexapps.oracle.com/pls/apex/dbpm/r/livelabs/view-workshop?p180_id=703&session=24239366308735)** Transparent Data Encryption & Data Redaction - This lab explains how to deal with wallets and keys when moving your database to the cloud. Data Redaction policies is used to prevent sensitive data from leaving the database unprotected (aka pseudonymization).
 
-- **Database Vault** - Configuring Database Vault to protect the database from over-privileged users and implement Separation Of Duties.
+- **[Database Vault](https://apexapps.oracle.com/pls/apex/dbpm/r/livelabs/view-workshop?p180_id=682&session=24239366308735)** - Configuring Database Vault to protect the database from over-privileged users and implement Separation Of Duties.
 
-- **Data Masking** - Data Safe can mask data in your non-production environments while maintaining complex data relationships. Data Safe minimizes the amount of personal data and allows internal test, development, and analytics teams to operate with reduced risk. 
+- **[Data Masking and Subsetting](https://apexapps.oracle.com/pls/apex/dbpm/r/livelabs/view-workshop?p180_id=704&session=24239366308735)** - Data Safe can mask data in your non-production environments while maintaining complex data relationships. Data Safe minimizes the amount of personal data and allows internal test, development, and analytics teams to operate with reduced risk. 
 
-- **Privilege Analysis and User Risk Assessment** - Using Privilege Analysis to adopt a Least Privilege Model.
+- **[Privilege Analysis](https://apexapps.oracle.com/pls/apex/dbpm/r/livelabs/view-workshop?p180_id=701&session=24239366308735)** - Using Privilege Analysis to adopt a Least Privilege Model.
 
-- **User Activity Auditing and Reporting** - Configuring Unified Auditing and Unified Auditing policies.
+- **[Data Safe Fundamentals](https://apexapps.oracle.com/pls/apex/dbpm/r/livelabs/view-workshop?p180_id=598&session=24239366308735)** - Security features for Database in the Cloud or On-Premise environments.
 
 ## Accessing the labs ##
 
@@ -54,4 +54,4 @@ The following labs are available:
 
 **Credits**
 
-- Data Safe Labs based on the materials from Oracle Database Security Product Management Team.
+- Labs based on the materials from Oracle Database Product Management Team.
